@@ -18,4 +18,4 @@ Welcome to the repository for my Bachelor's degree final project, where I delve 
 
 ## Acknowledgements
 
-Special thanks to Dr.Sauleh Eetemadifor their guidance and support throughout this project.
+Special thanks to Dr.Sauleh Eetemadi for their guidance and support throughout this project.
